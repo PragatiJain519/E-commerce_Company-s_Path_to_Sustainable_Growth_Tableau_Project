@@ -67,6 +67,8 @@ these rates and identify problematic products or categories to address quality i
 ###  V. Customer Satisfaction and Returns - 
 Investigate problematic Product with high return or cancellation rates and assess quality or description issues. so, minimize this issue to Improve product descriptions and visuals to manage customer expectations accurately and talk with the customer about delays or cancellations identify the issue.(in this analysis Set, kurta, Westrn Dress And top have a high return and cancellation Rate).
 
+# Report :
+
 
 ![Screenshot 2025-02-21 230041](https://github.com/user-attachments/assets/d7976a38-268b-4b59-97d1-70fb6f7822b0)
 
