@@ -53,15 +53,22 @@ these rates and identify problematic products or categories to address quality i
 # Based on the scenario and analysis goals, here are actionable recommendations for the company
 
  ### I. Financial Performance -
-                                                     In this analysis we have a need to improve company Revenue so Focus on Top-Selling Products - Introduce bundle offers or discounts for the most popular product categories(Like - Set & Kurta ) to increase revenue.
+ In this analysis we have a need to improve company Revenue so Focus on Top-Selling Products - Introduce bundle offers or discounts for the most popular product categories(Like - Set & Kurta ) to increase revenue.
+ 
  ### II. Customer Insights -
-                                           Target high-performing location(country, State, City)-specific campaigns or additional resources (e.g., faster delivery options).
+ Target high-performing location(country, State, City)-specific campaigns or additional resources (e.g., faster delivery options).
+                           
  ### III. Logistics and Fulfillment - 
-                                                           Reduce average shipping times by streamlining the fulfillment process, especially for Merchant orders in this case we can Offer faster shipping options during peak periods to boost customer satisfaction.
+ Reduce average shipping times by streamlining the fulfillment process, especially for Merchant orders in this case we can Offer faster shipping options during peak periods to boost customer satisfaction.
+ 
  ### IV. Expand Popular Categories - 
-                                                               Invest in product development for trending categories and explore cross-selling opportunities within them.
+ Invest in product development for trending categories and explore cross-selling opportunities within them.
+ 
 ###  V. Customer Satisfaction and Returns - 
-                                                                     Investigate problematic Product with high return or cancellation rates and assess quality or description issues. so, minimize this issue to Improve product descriptions and visuals to manage customer expectations accurately and talk with the customer about delays or cancellations identify the issue.(in this analysis Set, kurta, Westrn Dress And top have a high return and cancellation Rate).
+Investigate problematic Product with high return or cancellation rates and assess quality or description issues. so, minimize this issue to Improve product descriptions and visuals to manage customer expectations accurately and talk with the customer about delays or cancellations identify the issue.(in this analysis Set, kurta, Westrn Dress And top have a high return and cancellation Rate).
+
+
+![Screenshot 2025-02-21 230041](https://github.com/user-attachments/assets/d7976a38-268b-4b59-97d1-70fb6f7822b0)
 
 
                                                                      
